@@ -7,4 +7,4 @@ Herhangi bir dosyanın AES ile şifreleme ya da şifre çözme işlemini yapmakt
 
 Kod ChatGPT OpenAI desteği ile oluşturulmuştur. Gayet sade ve anlaşılabilir olduğundan birilerine faydası olabileceği düşüncesi ile buraya eklenmiştir. Her türlü dosya formatında çalışmaktadır. Kod güvenliği garanti edilmemektedir.
 
-Kütüphane için: "pip install pycryptodome" kullanabilirsiniz.
+Kütüphane için: <code>pip install pycryptodome</code> kullanabilirsiniz.
